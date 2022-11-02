@@ -1,0 +1,7 @@
+--The dashboard allows the user to analyse the customer profile of an online bike store that sells custom-made bicycles in Europe North America and the Pacific. The data contains details of people who contacted the bike maker with specifications for a bike but ended up not buying a bike as well as the data of people who bought bikes. The dashboard presents three panels: 
+ 
+  --A comparison of the average income of buyers vs. non-buyers split by gender.
+  --Age profile of buyers vs. non-buyers.
+  --Impact of daily commute distance on bike purchase. 
+ 
+--All three panels can be filtered by marital status, geographical region, education level, the number of cars owned,and the home ownership status of the customers.
