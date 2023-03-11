@@ -1,0 +1,11 @@
+Business Request:
+
+The HR department requests the capability to automatically extract a range of selected cells from their excel dataset of employees and the capability to filter and extract employees by department. 
+
+The offered solution :
+
+Uses VBA to create two macros that automate these functions.
+
+Adds buttons to the master data sheet to ease the performance of these functions.
+
+Thanks Purna Duggirala (Chandoo) for inspiration.
